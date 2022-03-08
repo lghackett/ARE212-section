@@ -3,7 +3,6 @@ Section notes for the second half of ARE 212.
 
 ## Tentative (proposed) schedule for section topics
 
----------
 | Date | Topic |
 ----------
 | March 11 | python bootcamp session 1 <ul><li>IDEs</li><li>packages</li><li>data types</li><li>numpy</li></ul> |
@@ -21,4 +20,4 @@ Section notes for the second half of ARE 212.
 | April 29 | ? |
 ----------
 | May 6 | ? |
-----------
+
