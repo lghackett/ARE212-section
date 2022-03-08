@@ -21,7 +21,7 @@ Section notes for the second half of ARE 212.
 <ul><li>Introduction to the minimizer function</li><li>Data generating function</li><li>Adding attributes; manipulating a class</li></ul> 
 
 ### April 22: Plot mania: Monte Carlo simulations
-<ul><li>Create plots, subplots using ``matplotlib``</li><li>Plot labelling and other formatting</li></ul>|
+<ul><li>Create plots, subplots using ``matplotlib``</li><li>Plot labelling and other formatting</li></ul>
 
 ### April 29
 
