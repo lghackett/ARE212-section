@@ -5,11 +5,10 @@ Section notes for the second half of ARE 212.
 
 ----
 | Date | Topic |
-
+----
 | March 11 | python bootcamp session 1 |
 |          | <ul><li>IDEs</li><li>packages</li><li>data types</li><li>numpy</li></ul> |
 ----
-
 | March 18 | Introduction to python classes |
 |          | <ul><li>Building a simple class: contsructors, attributes, methods</li><li>Instantiation</li><li>Scope</li><li>Examples using classes from ``scikit-learn``</li></ul> |	 
 ----
