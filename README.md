@@ -8,7 +8,10 @@ Section notes for the second half of ARE 212.
 
 
 ### March 18: Introduction to python classes  
-<ul><li>Building a simple class: contsructors, attributes, methods</li><li>Instantiation</li><li>Scope</li><li>Examples using classes from ``scikit-learn``</li></ul> 
+* Building a simple class: contsructors, attributes, methods
+* Instantiation
+* Scope
+* Examples using classes from ``scikit-learn``
 
 ### April 1: Playing well with others: version control 
 <ul><li>git, GitHub</li><li>Branching</li><li>cloning, pulling, committing, pushing</li><li>forking</li></ul>  
