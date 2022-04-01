@@ -16,7 +16,13 @@ Section notes for the second half of ARE 212.
 * Scope
 * Examples using classes from ``scikit-learn``
 
-### April 1: Playing well with others: version control 
+### April 1: Kernel regression: lambda functions and list comprehensions 
+* Writing kernel regression functions
+* Using list comprehensions to generate data
+* Using lambda functions to pass functions to other functions
+* Basic plotting
+
+### April 8: Playing well with others: version control 
 * git, GitHub
 * Branching
 * cloning, pulling, committing, pushing
@@ -24,11 +30,6 @@ Section notes for the second half of ARE 212.
 
  Working example: forking the ARE212 repository 
 
-### April 8: Kernel regression: lambda functions and list comprehensions 
-* Writing kernel regression functions
-* Using list comprehensions to generate data
-* Using lambda functions to pass functions to other functions
-* Basic plotting
 
 ### April 15: Making our own minimum-variance OLS estimator (class) 
 * Introduction to the minimizer function
