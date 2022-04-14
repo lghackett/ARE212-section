@@ -17,29 +17,30 @@ Section notes for the second half of ARE 212.
 * Examples using classes from ``scikit-learn``
 
 ### April 1: Kernel regression: lambda functions and list comprehensions 
+* Code review: Convolutions
 * Writing kernel regression functions
 * Using list comprehensions to generate data
 * Using lambda functions to pass functions to other functions
 * Basic plotting
 
-### April 8: Playing well with others: version control 
+### April 8: Weak instruments simulation
+* Code review: the Wright DGP
+* Simulation
+* looping
+
+
+### April 15: GMM
+* Code review: GMM
+* GMM example: estimating production parameters from a firm's first order conditions
+
+### April 22
+
+### April 29
+
+###  May 6
 * git, GitHub
 * Branching
 * cloning, pulling, committing, pushing
 * forking
 
  Working example: forking the ARE212 repository 
-
-
-### April 15: Making our own minimum-variance OLS estimator (class) 
-* Introduction to the minimizer function
-* Data generating function
-* Adding attributes; manipulating a class
-
-### April 22: Plot mania: Monte Carlo simulations
-* Create plots, subplots using ``matplotlib``
-* Plot labelling and other formatting
-
-### April 29
-
-###  May 6
