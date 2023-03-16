@@ -5,6 +5,6 @@ Section notes for the second half of ARE 212.
 
 ### March 17
 * Some notes on using git/GitHub
-* Getting started on a ConvolvedContinuousAndDiscrete class
+* Convolved Classes: Getting started on a ConvolvedDiscreteAndDiscrete class
 
 
