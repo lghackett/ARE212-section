@@ -8,7 +8,7 @@ First, make sure you have [git installed](https://git-scm.com/book/en/v2/Getting
 - Clone your version of the repository into this folder with ``git clone`` + the link you copied from GitHub.
 	- After, running ``ls`` in the terminal you should see a new folder!
 - ``cd`` into this new folder you just cloned.
-- Tell git on your computer where to look for updates (**change the link to the owner's repo you want- for example the link to my section notes is different**)
+- Tell git on your computer where to look for updates. **Change the link to the owner's repo you want- for example the link to my section notes is different**, just make sure it is the link to the _original owner's_ git repository, not your own. You can see this in the fact that the below example for Ethan's class materials has ``ligonteaching`` in the URL, **not** my own GitHub account ``lghackett``.
 
 ```
 git remote add upstream https://github.com/ligonteaching/ARE212_Materials
