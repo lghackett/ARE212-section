@@ -8,7 +8,7 @@ First, make sure you have [git installed](https://git-scm.com/book/en/v2/Getting
 - Clone your version of the repository into this folder with ``git clone`` + the link you copied from GitHub.
 	- After, running ``ls`` in the terminal you should see a new folder!
 - ``cd`` into this new folder you just cloned.
-- Tell git on your computer where to look for updates:
+- Tell git on your computer where to look for updates (**change the link to the owner's repo you want- for example the link to my section notes is different**)
 
 ```
 git remote add upstream https://github.com/ligonteaching/ARE212_Materials
