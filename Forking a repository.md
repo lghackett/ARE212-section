@@ -1,5 +1,7 @@
 # Forking a repository
 
+First, make sure you have [git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer.
+
 - Go to the remote repository on GitHub, and click "Fork"
 - Now you will see that you have a version of that repository in _your_ GitHub account, not Ethan's. Click the green Code button and copy the link.
 - In terminal, navigate to the subfolder you will want to store this repository into with ``cd``
