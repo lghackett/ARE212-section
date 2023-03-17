@@ -5,6 +5,8 @@ Section notes for the second half of ARE 212.
 
 ### March 17: ``Convolved Classes``
 * Some notes on using git/GitHub
-* Convolved Classes: Getting started on a ConvolvedDiscreteAndDiscrete class
+	- See ``Forking a repository.md``
+* Convolved Classes: Getting started on a ConvolvedDiscreteAndDiscrete class. 
+	- See ``Convolved classes\Convolving Classes.ipynb``
 
 
