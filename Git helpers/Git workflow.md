@@ -1,5 +1,7 @@
 # Git workflow cheat sheet
 
+Let's say you have cloned a remote repository onto your computer, either a forked one or not, by copying the "Code" link and running ``git clone URL`` on your computer. Now you want to actually work with this code.
+
 There is a standard order of operations when working with git. First, before starting to work in a repository, make sure you're as up to date as possible on the changes that might have been implemented in the remote repository. In order to "sync up" to the remote repository, use:
 
 ```
