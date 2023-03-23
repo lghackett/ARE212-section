@@ -64,8 +64,8 @@ One of the most powerful features of git is that it allows you to resolve _confl
 * Communicate with your team! Who is working on what when? How will you organize your files?
 * Use git branches. Branches are a slightly more advanced, good-practice git tool that I will hopefully touch on later, but I would be remiss if I didn't mention them here. 
 
-
-
-
+<p align="center">
+<img src=git_image.png  width="40%">
+</p>
 
 
