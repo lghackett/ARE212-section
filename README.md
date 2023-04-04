@@ -1,7 +1,7 @@
 # ARE212-section
 Section notes for the second half of ARE 212.
 
-## Tentative (proposed) schedule for section topics
+## Schedule for section topics
 
 ### March 17: ``Convolved Classes``
 * Some notes on using git/GitHub
@@ -15,3 +15,7 @@ Section notes for the second half of ARE 212.
 * What's a kernel and coding them
 	- See ``Kernel densities/Kernel density (blank).ipynb``
 
+### April 7: ``Kernel regression``
+* Reminder of how to use git
+* Kernel regressions and overfitting
+	- See: ``Kernel regression/Kernel regression and overfitting.ipynb``
