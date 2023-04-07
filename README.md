@@ -14,8 +14,10 @@ Section notes for the second half of ARE 212.
 	- See ``Git helpers/Git workflow.md``
 * What's a kernel and coding them
 	- See ``Kernel densities/Kernel density (blank).ipynb``
+	- Extra: ``Kernel regression/Kernel regression and overfitting.ipynb``
 
-### April 7: ``Kernel regression``
-* Reminder of how to use git
-* Kernel regressions and overfitting
-	- See: ``Kernel regression/Kernel regression and overfitting.ipynb``
+### April 7: ``IV and Monte Carlo``
+* Git Q&A
+* Weak IV simulations
+	- See: ``Weak Instruments/Weak Instruments.ipynb``
+	- Extra: ``Weak Instruments/Another take on weak instruments.ipynb``
