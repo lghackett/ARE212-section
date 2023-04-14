@@ -21,3 +21,9 @@ Section notes for the second half of ARE 212.
 * Weak IV simulations
 	- See: ``Weak Instruments/Weak Instruments.ipynb``
 	- Extra: ``Weak Instruments/Another take on weak instruments.ipynb``
+
+### April 14: ``GMM``
+* Intuition and mechanics of GMM
+	- See: ``GMM/GMM.ipynb``
+
+
