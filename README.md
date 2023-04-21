@@ -25,5 +25,6 @@ Section notes for the second half of ARE 212.
 ### April 14: ``GMM``
 * Intuition and mechanics of GMM
 	- See: ``GMM/GMM.ipynb``
-
+### April 21: ``GMM part 2``
+	- See: ``GMM-2/GMM part 2.ipynb``
 
