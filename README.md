@@ -28,3 +28,7 @@ Section notes for the second half of ARE 212.
 ### April 21: ``GMM part 2``
 	- See: ``GMM-2/GMM part 2.ipynb``
 
+### April 28: ``Linear approximations``
+* Some theory on boostrapping
+* Linear approximations
+	- See: ``Linear approximation/Bootstrapping and Linear approximations (blank).ipynb``
